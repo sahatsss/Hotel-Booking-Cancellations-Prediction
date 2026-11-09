@@ -41,7 +41,7 @@ children 4
 Duplikat: 0
 [Kaggle](https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand/data).
 
-### Variabel-variabel pada Restaurant UCI dataset adalah sebagai berikut:
+### Variabel-variabel pada Hotel Booking Demand dataset adalah sebagai berikut:
 
  hotel:                          Jenis hotel city hotel atau resort hotel                                          
  is_canceled:                    Bisa menjadi label, tapi memilih menggunakan reservation_status. 1 jika reservasi dibatalkan, 0 jika tidak.                                                         
